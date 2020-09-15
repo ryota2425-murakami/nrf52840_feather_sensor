@@ -1,0 +1,2 @@
+# nrf52840_feather_sensor
+Atlasscientificセンサからfeatherを通してセントラルに送信する
